@@ -1,7 +1,7 @@
 {
-  "name": "flyio-examples",
+  "name": "test-endpoints",
   "version": "1.0.0",
-  "description": "",
+  "description": "http and socket.io endpoints, used for testing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
